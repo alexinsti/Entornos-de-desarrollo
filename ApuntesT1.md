@@ -56,9 +56,9 @@ Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de progra
 	
 	Campo de aplicación, si se utiliza en tu área de trabajo
  	Experiencia previa, si has trabajado con lenguajes similares
-Herramientas de desarrollo, , si tienes acceso a las herramientas necesarias para trabajar con él
-Documentación disponible,  la cantidad de documentación y sitios de consulta disponibles
-Base de usuarios, la cantidad de usuarios con los que poder trabajar o a los que realizar consultas
-Reusabilidad, pues eso
-Portabilidad, dependiendo del área es más o menos importante
-Imposición del cliente, si pone la pasta y se encabezona, decide el lenguaje
+	Herramientas de desarrollo, , si tienes acceso a las herramientas necesarias para trabajar con él
+	Documentación disponible,  la cantidad de documentación y sitios de consulta disponibles
+	Base de usuarios, la cantidad de usuarios con los que poder trabajar o a los que realizar consultas
+	Reusabilidad, pues eso
+	Portabilidad, dependiendo del área es más o menos importante
+	Imposición del cliente, si pone la pasta y se encabezona, decide el lenguaje
